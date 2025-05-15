@@ -4,13 +4,13 @@ A machine learning project to classify SMS messages as spam or ham using a Naive
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project implements a simple yet powerful spam detection system using the **Multinomial Naive Bayes** algorithm, trained on 5,500+ real SMS messages.
 
 ---
 
-## 🧰 Tools and Libraries
+## Tools and Libraries
 
 | Library | Purpose |
 |--------|---------|
@@ -22,7 +22,7 @@ This project implements a simple yet powerful spam detection system using the **
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **File**: `spam.csv`
 - **Columns**:
@@ -31,7 +31,7 @@ This project implements a simple yet powerful spam detection system using the **
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. Load and clean dataset
 2. Encode labels (ham → 0, spam → 1)
@@ -42,7 +42,12 @@ This project implements a simple yet powerful spam detection system using the **
 
 ---
 
-## 📈 Results
+## Results
 
 - **Accuracy**: ~98.38%
 - **Confusion Matrix**:
+
+## Author
+
+Developed by [Arunima Surendran](https://github.com/arunimakanavu)
+
